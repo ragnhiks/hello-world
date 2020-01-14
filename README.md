@@ -1,2 +1,3 @@
 # hello-world
-another repository
+
+a student just trying to learn git
